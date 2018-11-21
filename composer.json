@@ -7,7 +7,7 @@
     ],
     "require": {
         "php": ">=5.5.9",
-        "symfony/form": "~3.0",
+        "symfony/form": "~4.1",
         "symfony/options-resolver": "~3.0",
         "symfony/property-access": "~3.0",
         "doctrine/orm": "~2.0",
